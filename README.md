@@ -2,7 +2,7 @@
 
 ![Image of UI of Ava](./images/ava.png)
 
-This is a personal project to leverage on the insanely game-changing LLM model openai ```gpt-3.5-turbo``` and the open-source ```langchain``` library. The application is written in Python and built using ```customtkinter``` library to create a modern UI.
+This is a personal project done over a period of 2 weeks for the MVP, to leverage on the insanely game-changing LLM model openai ```gpt-3.5-turbo``` and the open-source ```langchain``` library. The application is written in Python and built using ```customtkinter``` library to create a modern UI.
 
 
 ## Note:
