@@ -1,4 +1,4 @@
-# Ava: Your Personal Chatbot Assistant
+# Ava: Your Personal Artificial Virtual Assistant
 
 ![Image of UI of Ava](./images/ava.png)
 
