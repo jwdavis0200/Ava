@@ -23,10 +23,10 @@ You can get your keys here:
 
 * Ability to just use regular chat with Ava!
 
+* Ability to save conversations to continue when relaunching app
+
 ### Features wishlist
 * Ability to autonomously research on topics for you
-
-* Ability to save conversations to continue when relaunching app
 
 * Ability to use speech instead of text for inputs
 
