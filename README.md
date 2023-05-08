@@ -8,16 +8,16 @@ This is a personal project done over a period of 2 weeks for the MVP, to leverag
 ## Note:
 As the import libraries were not optimised to ensure the quickest launch time, please wait for a bit when launching the app.
 
-On first launch, an api set up window will be launched alongside with the main app. Please input your openai key(for general chat functionality) and serp api key(for web search).
+On first launch, an api set up window will be launched alongside with the main app. Please input your openai key(for general chat functionality).
 
-You can get your keys here:
+You can get your key here:
 * [Get your openai API key](https://platform.openai.com/)
-* [Get your serp API key](https://serper.dev)
 
 
 ### Features Implemented
 * Ability to use internet using ```/websearch``` command
 ![websearch command](./images/websearch.png)
+![url websearch command](./images/urlwebsearch.png)
 
 * Ability to upload your own PDF and have a QA with Ava on information from your PDF
 
