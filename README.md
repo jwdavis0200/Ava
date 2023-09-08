@@ -1,4 +1,4 @@
-# Ava: Your Personal Artificial Virtual Assistant
+# Ava: Your Personal GPT Artificial Virtual Assistant
 
 ![Image of UI of Ava](./images/ava.png)
 
